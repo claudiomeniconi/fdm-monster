@@ -26,6 +26,7 @@
 
 ## What is FDM Monster?
 
+
 FDM Monster is a server for managing your 3D printer farm through [OctoPrint](https://octoprint.org/).
 Our efforts are focused on providing a professional print-farming workflow that is suitable for hobby and commercial farms alike.
 
